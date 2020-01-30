@@ -1,0 +1,58 @@
+.img_3{
+    width: 100%;
+    height: 50vh;
+}
+.div_centre{
+    display: flex;
+    justify-content: center;
+}
+.div_centre_2{
+    display: flex;
+    justify-content: center;
+}
+.col-md-3{
+    width:30%;
+}
+.space_empty{
+    height: 5vh;
+}
+.img_1{
+    width: 20vh;
+    height: 70px;
+}
+.lower_bottom{
+    display: flex;
+}
+.img_2{
+    width: 80vh;
+
+}
+.title_div{
+    justify-content: center;
+    display: flex;
+}
+.bt{
+    color:white;
+    background-color: #17a2b8;
+}
+.empty_space{
+    height: 10vh;
+}
+.bt_2{
+    background-color: #34ce57;
+}
+.row{
+    background-image: image(hotpink);
+}
+.index_row{
+    width: 100%;
+    height: 40vh;
+}
+.bt_3{
+    background-color: yellow;
+}
+.index_txt{
+    justify-content: center;
+    color: white;
+    display: flex;
+}
